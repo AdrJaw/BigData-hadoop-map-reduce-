@@ -1,2 +1,2 @@
 print('Hello')
-print('Adrian pierwszy git')
+print('Adrian first git')
